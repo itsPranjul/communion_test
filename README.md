@@ -1,7 +1,8 @@
-# CommunionHub - Event Management Web App ![Link](https://communion-test.vercel.app/)
+# CommunionHub - Event Management Web App 
 
 A **React.js-based web app** that allows users to discover, filter, and add community events.
 
+## 🚀 Live Link(https://communion-test.vercel.app/)
 ## 🚀 Features  
 - ✅ **Home Page** – Introduction with engaging UI.  
 - ✅ **Event Listing Page** – View, filter, and add events dynamically.  
