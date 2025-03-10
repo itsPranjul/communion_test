@@ -29,7 +29,7 @@ A **React.js-based web app** that allows users to discover, filter, and add comm
    ```
 3. **Run the App Locally**  
    ```sh
-   npm start
+   npm run dev
    ```
 4. Open **http://localhost:3000/** in your browser.
 
