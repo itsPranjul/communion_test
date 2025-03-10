@@ -22,7 +22,6 @@ A **React.js-based web app** that allows users to discover, filter, and add comm
 1. **Clone the Repository**  
    ```sh
    git clone https://github.com/itsPranjul/communion_test.git
-   cd communionhub
    ```
 2. **Install Dependencies**  
    ```sh
