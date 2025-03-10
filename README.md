@@ -54,7 +54,6 @@ A **React.js-based web app** that allows users to discover, filter, and add comm
 |-----------|------------|
 | ![Home Page](./public/home.png) | ![Events Page](./public/ss1.png) |
 
-*(Replace `https://via.placeholder.com/300` with actual screenshot links.)*
 
 ## 🤝 Contributing
 1. **Fork** the repository  
